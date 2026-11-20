@@ -9,7 +9,7 @@ up his GTA 6 case. Wall sign: "WAIT TIME: 13 YEARS".
 - `meme.png` — the meme image (1024x1024), the post's first picture
 - `CAPTION.md` — the exact post text (play code, @makefunai, make.fun link,
   and the pitch in the joke's own voice)
-- `POST.json` — placeholder; replaced with the real post URL after posting
+- `POST.json` — the live post URL: https://x.com/oxzenoo/status/2123686017668657308
 - `main.ts` — copies POST.json to /output
 
 **To post:** attach `meme.png` to a public X post with the text in
@@ -18,3 +18,8 @@ up his GTA 6 case. Wall sign: "WAIT TIME: 13 YEARS".
 **Posting checklist:** post from a public (not protected) X account; keep
 the post up and the account public until the results are out; post the
 caption verbatim, including the play code line exactly as written.
+
+**Status: LIVE.** Posted from @oxzenoo on 2026-11-20 07:52:57 UTC:
+https://x.com/oxzenoo/status/2123686017668657308 — photo attached and
+verified publicly readable. (An earlier post, status 2123684786246164739,
+went up without the photo and is abandoned; it is not this entry.)
